@@ -1,10 +1,4 @@
-# Aula prática - Markdown
-
-Este repositório servirá de base para você praticar a estrutura de texto markdown. 
-
-Primeiramente faça um fork, edite inserindo a pesquisa, e no final, faça o commit para salvar o conteúdo.
-
-Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+# VERSÃO 2
 
 #### Sobre a atividade, você deverá considerar o seguinte assunto:
 
